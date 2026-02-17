@@ -1,0 +1,9 @@
+[2026-02-17 14:01:52 WIB] [ADD] Customer: CUST001 | Error: Parameter ?add= tidak ditemukan
+[2026-02-17 14:02:10 WIB] [ADD] Customer: CUST001 | IPs: 103.1.2.3 | Mode: single-ip | Result: Added firewall rule(s) untuk customer "CUST001" (single-ip): 1/1 berhasil | Success
+[2026-02-17 14:02:28 WIB] [ADD] Customer: CUST002 | IPs: 103.1.2.3,103.1.2.4,103.1.2.5 | Mode: address-list | Result: Added firewall rule(s) untuk customer "CUST002" (address-list): 4/4 berhasil | Success
+[2026-02-17 14:03:49 WIB] [DISABLE] Customer: CUST001 | Result: Disabled 2 firewall rule(s) untuk customer "CUST001" | Success
+[2026-02-17 14:03:53 WIB] [ENABLE] Customer: CUST001 | Result: Enabled 2 firewall rule(s) untuk customer "CUST001" | Success
+[2026-02-17 14:03:59 WIB] [ENABLE] Customer: CUST002 | Result: Enabled 1 firewall rule(s) untuk customer "CUST002" | Success
+[2026-02-17 14:10:56 WIB] [ADD] Customer: CUST001 | IPs: 103.1.2.3 | Mode: single-ip | Result: Added firewall rule(s) untuk customer "CUST001" (single-ip): 1/1 berhasil | Success
+[2026-02-17 14:11:22 WIB] [ENABLE] Customer: CUST001 | Result: Enabled 1 firewall rule(s) untuk customer "CUST001" | Success
+[2026-02-17 14:11:30 WIB] [DISABLE] Customer: CUST001 | Result: Disabled 1 firewall rule(s) untuk customer "CUST001" | Success
